@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-- Run game
+### Run game
 
 ```bash
 python3 main.py
