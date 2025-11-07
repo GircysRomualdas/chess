@@ -1,6 +1,6 @@
 # Chess
 
-Chess game built with Python and Pygame.
+Player vs player chess game built with Python and Pygame.
 
 ---
 
