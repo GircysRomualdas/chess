@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ---
 
-## Run the Game
+## Usage
 
 ```bash
 python3 main.py
