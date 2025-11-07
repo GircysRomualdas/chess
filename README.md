@@ -1,20 +1,37 @@
 # Chess
 
-Chess game in python using pygame.
+Chess Game built with Python and Pygame.
 
-- Press 't' to change theme
-- Press 'r' to restart the game
+---
 
-## Commands for project
+## Requirements
 
-### Activate venv
+- Python 3
 
-    env\Scripts\activate.bat
+---
 
-### Run game
+## Installation
 
-    py main.py
+1. Clone the Repository
 
-### Deactivate venv
+2. Create virtual environment and activate.
+```bash
+python3 -m venv env
+source env/bin/activate
+```
 
-    env\Scripts\deactivate
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Run the Game
+
+```bash
+python3 main.py
+```
+
+- To change board theme press 't'
+- To restart game press 'r'
