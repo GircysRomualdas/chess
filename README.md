@@ -1,6 +1,7 @@
 # Chess
 
-Player vs player chess game built with Python and Pygame.
+A player vs player chess game built with Python and Pygame.  
+Two players can play locally on the same computer.
 
 ---
 
