@@ -50,5 +50,5 @@ python3 main.py
 | Key / Action | Description |
 |--------------|-------------|
 | Mouse     | Click and drag pieces to move them |
-| **T**        | Change board theme |
-| **R**        | Restart the game |
+| t        | Change board theme |
+| r        | Restart the game |
