@@ -42,3 +42,13 @@ python3 main.py
 
 - To change board theme press 't'
 - To restart game press 'r'
+
+---
+
+## Controls
+
+| Key / Action | Description |
+|--------------|-------------|
+| Mouse     | Click and drag pieces to move them |
+| **T**        | Change board theme |
+| **R**        | Restart the game |
