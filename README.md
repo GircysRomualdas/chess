@@ -47,8 +47,7 @@ python3 main.py
 
 ## Controls
 
-| Key / Action | Description |
+| Key | Description |
 |--------------|-------------|
-| Mouse     | Click and drag pieces to move them |
 | t        | Change board theme |
 | r        | Restart the game |
