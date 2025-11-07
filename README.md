@@ -40,9 +40,6 @@ python3 main.py
   <img width="800" height="832" alt="Screenshot from 2025-11-07 02-29-34" src="https://github.com/user-attachments/assets/4420bb37-26e4-428e-b53a-09645529b204" />
 </p>
 
-- To change board theme press 't'
-- To restart game press 'r'
-
 ---
 
 ## Controls
