@@ -13,7 +13,7 @@ Two players can play locally on the same computer.
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 2. Create virtual environment and activate.
 ```bash
